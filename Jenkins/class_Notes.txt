@@ -336,8 +336,8 @@ systemctl restart jenkins
 systemctl start jenkins 
 systemctl stop jenkins 				
 					
-
-					
+secrets folder >> cat initialAdminPassword >> copy pwd and pste in browser <ip>:8080
+/var/lib/jenkins					
 					
 Next :		
 			Jenkins Projects :
